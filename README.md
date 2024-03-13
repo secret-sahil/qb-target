@@ -1,7 +1,7 @@
 # fivem-target
 
 ## Preview
-![qb-target](https://cdn.discordapp.com/attachments/1019354711054352384/1160182743393648703/image.png?ex=6533bb61&is=65214661&hm=6aed8024df8fc4654c52bf2bfd654af09f708a7d2c879579c04295110cc8990e&)
+![qb-target](https://repository-images.githubusercontent.com/701717003/caf1bb7d-adac-4102-9fc9-0492c9863e80)
 
 ## Get other scripts in the same theme!
 - ### [qb-clothing](https://forum.cfx.re/t/free-qbcore-character-menu-clothing-menu/4898891)
